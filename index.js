@@ -28,7 +28,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173", // local dev
-      "https://se-project-frontend-5.onrender.com/" // ✅ replace with your real frontend Render domain
+      "https://se-project-frontend-4.onrender.com/" // ✅ replace with your real frontend Render domain
     ],
     credentials: true,
   })
